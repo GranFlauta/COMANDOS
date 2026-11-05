@@ -1,0 +1,30 @@
+Páginas Web para Pruebas con Internet (En el equipo o desde tu celular)
+A. Verificar autenticidad por Número de Serie y Garantía (Desde tu celular):
+
+Lenovo (Muestra fecha de fabricación y piezas originales exactas en Parts -> As-Built): https://pcsupport.lenovo.com
+
+HP (Verifica garantía y códigos Refurbished): https://support.hp.com/check-warranty
+
+ASUS: https://www.asus.com/support/warranty-status-inquiry/
+
+Dell (Ingresa el Service Tag): https://www.dell.com/support
+
+Acer: https://www.acer.com/us-en/support/warranty
+
+B. Traducir IDs de Chips y Paneles si dudas de un componente:
+
+Identificar DEV_XXXX de tarjetas gráficas/chips: https://devicehunt.com (pones 10DE en Vendor y los 4 dígitos de DEV en Device).
+
+Especificaciones reales de procesadores (núcleos/caché oficiales): https://www.techpowerup.com/cpu-specs/
+
+Verificar modelo exacto de pantalla (PanelID): https://www.panelook.com
+
+C. Pruebas rápidas en el navegador de la laptop (Sin instalar programas):
+
+Pantalla (Píxeles muertos, manchas blancas y fugas de luz): https://lcdtech.info/en/tests/dead.pixel.htm (haz clic para pantalla completa y pasa por negro, blanco, rojo, verde y azul).
+
+Hercios reales de la pantalla (60Hz vs 120Hz/144Hz/165Hz) y Ghosting: https://www.testufo.com
+
+Teclado completo (Detectar teclas muertas o que se presionan solas): https://en.key-test.ru
+
+Cámara web y Micrófono: https://es.webcamtests.com y https://es.mictests.com
